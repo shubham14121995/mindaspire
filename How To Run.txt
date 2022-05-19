@@ -1,0 +1,3 @@
+hi after taking clone of code.
+1.first compile the code ,command for compile( javac Calculator.java)
+2.then run the code ,command for run ( java Calculator)
